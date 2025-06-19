@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<title>Mon amour éternel</title>
+<!-- Utilisation d'une police d'amour pour un style plus romantique -->
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+<style>
+    body {
+        font-family: 'Georgia', serif;
+        background: linear-gradient(135deg, #ffe6f0, #ffe0e5);
+        color: #600046;
+        line-height: 1.6;
+        padding: 30px;
+        max-width: 900px;
+        margin: auto;
+        box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+        font-size: 1.3em;
+    }
+    h1 {
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        font-size: 2.4em;
+        color: #c31652;
+        margin-bottom: 40px;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+    }
+    p {
+        margin-bottom: 25px;
+        text-align: justify;
+        text-indent: 50px;
+        position: relative;
+        padding-left: 15px;
+    }
+    p::after {
+        content: "✨";
+        position: absolute;
+        right: 10px;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 1.5em;
+        color: #c31652;
+        opacity: 0.8;
+        transition: all 0.3s ease;
+    }
+    p:hover::after {
+        opacity: 1;
+        font-size: 2em;
+        transform: translateY(-50%) scale(1.2);
+    }
+</style>
+</head>
+<body>
+<h1>Je t’aime, mon éternelle passion</h1>
+
+<p>Je t’aime au-delà des mots, au-delà du temps,<br>
+Et chaque battement de mon cœur chante ton nom avec une passion infinie.<br>
+Je porte ton nom gravé dans mon âme, une étoile éternelle qui brille dans mon univers.<br>
+Un feu sacré qui illumine mes nuits, un amour qui refuse de s’éteindre, malgré la distance.</p>
+
+<p>Chaque matin, quand le soleil se lève, c’est ton visage qui illumine mes pensées,<br>
+Et chaque soir, c’est ton image qui berce mes rêves d’amour et de tendresse.<br>
+Ton absence est une blessure douce-amère, un vide qui m’envahit tout entier,<br>
+Mais c’est cette douleur qui me rappelle chaque jour combien tu es précieux à mon cœur.</p>
+
+<p>Je ressens ton absence comme une brûlure, une mélodie douloureuse, mais<br>
+Une mélodie que je veux toujours entendre, parce qu’elle chante la profondeur de mon amour.<br>
+Je garde cette foi, fragile mais sincère, que notre passion triomphera de tout,<br>
+Car notre amour est un rêve éveillé, une évidence qui dépasse le temps et l’espace.</p>
+
+<p>Je rêve de ce jour où je pourrai te prendre dans mes bras et te chuchoter à l’oreille<br>
+Tout ce que je ressens, chaque souffle, chaque battement, chaque soupir.<br>
+Je veux te regarder avec des yeux pleins de tendresse et de désir,<br>
+Et te promettre, sans peur, que je t’aimerai pour l’éternité, encore et encore.</p>
+
+<p>En attendant ce moment magique, je te garde dans chaque pensée, chaque souffle,<br>
+Car tu es mon univers, mon horizon, le seul et unique amour de ma vie.<br>
+Je crois en nous, en notre destin, en cette force sauvage qui nous unit plus fort que tout,<br>
+Et je me laisse emporter par cette passion qui brûle, encore plus ardente chaque jour.</p>
+
+<p>Je t’aime avec l’intensité d’un feu inextinguible, qui ne faillit jamais,<br>
+Une flamme qui embrase chaque fibre de mon être, une promesse sans fin.<br>
+Et même si la vie nous met à l’épreuve, notre amour restera indestructible,<br>
+Pour l’éternité, pour l’éternel, parce que tu es ma raison de vivre, mon plus beau rêve.</p>
+
+<p>Quand je regarde le ciel étoilé, je vois ton regard brillant dans chaque lumière,<br>
+Je chante ton nom avec tout l’amour que mon cœur peut contenir,<br>
+Car chaque étoile est un message d’amour, une promesse silencieuse,<br>
+Que malgré tout, notre amour vit, pour toujours, pour l’éternité.</p>
+</body>
+</html>
